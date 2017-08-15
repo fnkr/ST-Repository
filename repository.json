@@ -4,7 +4,7 @@
 		{
 			"name": "ClosureMyJS",
 			"details": "https://github.com/fnkr/ST-ClosureMyJS",
-			"issues": "https://ge1.me/sublimetext-closure-issues",
+			"issues": "https://github.com/fnkr/ST-ClosureMyJS/issues",
 			"labels": ["build system", "javascript"],
 			"releases": [
 				{
@@ -16,7 +16,7 @@
 		{
 			"name": "Pascal",
 			"details": "https://github.com/fnkr/ST-Pascal",
-			"issues": "https://ge1.me/sublimetext-pascal-issues",
+			"issues": "https://github.com/fnkr/ST-Pascal/issues",
 			"labels": ["language syntax", "snippets", "build system"],
 			"releases": [
 				{
@@ -28,7 +28,7 @@
 		{
 			"name": "Pascal Snippets",
 			"details": "https://github.com/fnkr/ST-Pascal",
-			"issues": "https://ge1.me/sublimetext-pascal-issues",
+			"issues": "https://github.com/fnkr/ST-Pascal/issues",
 			"labels": ["snippets", "build system"],
 			"releases": [
 				{
@@ -40,7 +40,7 @@
 		{
 			"name": "Sign",
 			"details": "https://github.com/fnkr/ST-Sign",
-			"issues": "https://ge1.me/sublimetext-sign-issues",
+			"issues": "https://github.com/fnkr/ST-Sign/issues",
 			"previous_names": ["Signatori"],
 			"releases": [
 				{
@@ -52,7 +52,7 @@
 		{
 			"name": "FakeImg Image Placeholder Snippet",
 			"details": "https://github.com/fnkr/ST-FakeIMG",
-			"issues": "https://ge1.me/sublimetext-fakeimg-issues",
+			"issues": "https://github.com/fnkr/ST-FakeIMG/issues",
 			"releases": [
 				{
 					"sublime_text": "*",
