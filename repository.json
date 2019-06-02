@@ -2,18 +2,6 @@
 	"schema_version": "2.0",
 	"packages": [
 		{
-			"name": "ClosureMyJS",
-			"details": "https://github.com/fnkr/ST-ClosureMyJS",
-			"issues": "https://github.com/fnkr/ST-ClosureMyJS/issues",
-			"labels": ["build system", "javascript"],
-			"releases": [
-				{
-					"sublime_text": "<3000",
-					"details": "https://github.com/fnkr/ST-ClosureMyJS/tags"
-				}
-			]
-		},
-		{
 			"name": "Pascal",
 			"details": "https://github.com/fnkr/ST-Pascal",
 			"issues": "https://github.com/fnkr/ST-Pascal/issues",
